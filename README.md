@@ -1,1 +1,3 @@
 typescript-observer
+=======================
+observer pattern
